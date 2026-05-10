@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+build/
+local.properties
+
+# Mac
+.DS_Store
+
+# IDE
+.idea/caches/
+.idea/assetWizardSettings.xml
+
+# Android
+*.apk
+*.aab
